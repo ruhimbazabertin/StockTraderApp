@@ -1,5 +1,4 @@
 <template>
-  <!-- Footer -->
   <mdb-footer color="blue-grey" class="page-footer font-small lighten-5 pt-0">
     <div style="backgroundColor: '#21d192'">
       <mdb-container class="text-left">
@@ -20,32 +19,32 @@
     <mdb-container class="mt-5 mb-4 text-center text-md-left">
       <mdb-row class="mt-3">
         <mdb-col md="3" lg="4" xl="3" class="mb-4 dark-grey-text">
-          <h6 class="text-uppercase font-weight-bold"><strong>Company name</strong></h6>
+          <h6 class="text-uppercase font-weight-bold"><strong>RB</strong></h6>
           <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px" />
           <p>Here you can use rows and columns here to organize your footer content. Lorem ipsum dolor sit
             amet, consectetur adipisicing elit.</p>
         </mdb-col>
         <mdb-col md="2" lg="2" xl="2" class="mb-4 dark-grey-text">
-          <h6 class="text-uppercase font-weight-bold"><strong>Products</strong></h6>
+          <h6 class="text-uppercase font-weight-bold"><strong>Stocks</strong></h6>
           <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px" />
-          <p><a href="#!" class="dark-grey-text">MDBootstrap</a></p>
-          <p><a href="#!" class="dark-grey-text">MDWordPress</a></p>
-          <p><a href="#!" class="dark-grey-text">BrandFlow</a></p>
-          <p><a href="#!" class="dark-grey-text">Bootstrap Angular</a></p>
+          <p><a href="#!" class="dark-grey-text">...</a></p>
+          <p><a href="#!" class="dark-grey-text">...</a></p>
+          <p><a href="#!" class="dark-grey-text">...</a></p>
+          <p><a href="#!" class="dark-grey-text">...</a></p>
         </mdb-col>
         <mdb-col md="3" lg="2" xl="2" class="mb-4 dark-grey-text">
           <h6 class="text-uppercase font-weight-bold"><strong>Useful links</strong></h6>
           <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px" />
-          <p><a href="#!" class="dark-grey-text">Your Account</a></p>
-          <p><a href="#!" class="dark-grey-text">Become an Affiliate</a></p>
-          <p><a href="#!" class="dark-grey-text">Shipping Rates</a></p>
+          <p><a href="#!" class="dark-grey-text">My account:</a></p>
+          <p><a href="#!" class="dark-grey-text">...</a></p>
+          <p><a href="#!" class="dark-grey-text">...</a></p>
           <p><a href="#!" class="dark-grey-text">Help</a></p>
         </mdb-col>
         <mdb-col md="4" lg="3" xl="3" class="mb-4 dark-grey-text">
           <h6 class="text-uppercase font-weight-bold"><strong>Contact</strong></h6>
           <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px" />
           <p><i class="fas fa-home mr-3"></i> New York, NY 10012, US</p>
-          <p><i class="fas fa-envelope mr-3"></i> info@example.com</p>
+          <p><i class="fas fa-envelope mr-3"></i> RB@gmail.com</p>
           <p><i class="fas fa-phone mr-3"></i> + 01 234 567 88</p>
           <p><i class="fas fa-print mr-3"></i> + 01 234 567 89</p>
         </mdb-col>
@@ -57,5 +56,4 @@
       </mdb-container>
     </div>
   </mdb-footer>
-  <!-- Footer -->
 </template>
