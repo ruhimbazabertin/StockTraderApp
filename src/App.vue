@@ -8,14 +8,17 @@
             </transition>
       </div>
     </div>
+    <trader-footer></trader-footer>
   </div>
 </template>
 
 <script>
 import Header from './components/Header'
+import Footer from './components/Footer'
 export default {
       components: {
         'trader-header': Header,
+        'trader-footer': Footer,
       },
       created(){
         this.$store.dispatch('initStocks');
